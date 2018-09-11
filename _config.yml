@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "John Zhong's personal site"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Zhong Zhong"
+description              : &description "Master of Financial Engieering at Cornell University"
 url                      : https://johnzhong1468.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "johnzhong1468/johnzhong1468.github.io"
+repository               : "johnzhong1468.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,26 +79,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "John Zhong"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am a master student at Cornell University studying Financial Engineering"
+  location         : "New York"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "0429zhongchen@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "johnson.zhong.12"
   foursquare       :
-  github           : "academicpages"
+  github           : "johnzhong1468"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "chen-john-zhong"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
