@@ -23,6 +23,8 @@ Work experience
 * Summer 2018: Quantitative Intern
   * Macro Analytics for Professionals
   * Supervisor: Lucas Downey
+  	* Co-authored a [white paper](https://mapsignals.com/uploads/3/4/8/3/34837152/map_outliers.pdf)
+	* Built an [interactive website](http://mapsignals.pythonanywhere.com/)
 
 * June 2017: Mathematics Tutor
   * UCSB Campus Learning Assistance Services
@@ -30,9 +32,9 @@ Work experience
   
 Projects
 ======
-* Spring 2018: Bubble Detection for Cryptocurrency (team of 4) at Cornell University
-* Spring 2018: Momentum Trading Optimization (team of 3) at Cornell University
-* Fall 2017: Marketing Campaign Candidate Analysis (team of 2) at Cornell University
+* Spring 2018: [Bubble Detection for Cryptocurrency (team of 4) at Cornell University](https://github.com/Johnzhong1468/Cryptocurrency-Bubble-Detection)
+* Spring 2018: [Momentum Trading Optimization (team of 3) at Cornell University](https://github.com/Johnzhong1468/Momentum-Trading-Optimization)
+* Fall 2017: [Marketing Campaign Candidate Analysis (team of 2) at Cornell University](https://github.com/Johnzhong1468/MarketingCampaign)
     
 Skills
 ======
