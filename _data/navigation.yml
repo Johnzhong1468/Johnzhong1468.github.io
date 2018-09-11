@@ -2,11 +2,4 @@
 main:
   - title: "Resume"
     url: /cv/
-    
-  - title: "Projects & Experience"
-    url: /exp/
-    
-  - title: "Athletics"
-    url: /athletics/
-
 
